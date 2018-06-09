@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\Debug\config_usart.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>config_usart.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>config_usart.map</FILE>
+  <FILE>config_usart.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>13</LINE></main>
+  <USART_init><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>63</LINE></USART_init>
+  <USART_Transmit><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>75</LINE></USART_Transmit>
+  <ADC_init><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>38</LINE></ADC_init>
+  <rutina><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>26</LINE></rutina>
+  <delay_1s><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>93</LINE></delay_1s>
+  <Read_ADC><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>47</LINE></Read_ADC>
+  <Keep_poling><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>51</LINE></Keep_poling>
+  <USART_Receive><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>82</LINE></USART_Receive>
+  <delay2><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>95</LINE></delay2>
+  <delay1><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>97</LINE></delay1>
+  <delay0><FILE>C:\Users\Asus\Desktop\Labo\Proyecto labo\usart\config_usart\config_usart\main.asm</FILE><LINE>99</LINE></delay0>
+ </LABELS>
+</ASSEMBLER_INFO>
