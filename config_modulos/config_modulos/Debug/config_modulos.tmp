@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.51</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Archivos de programa\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Archivos de programa\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\Debug/config_modulos.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\Debug/config_modulos.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\Debug\config_modulos.map</FILE>
+  <FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\Debug\config_modulos.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>24</LINE></main>
+  <EX_INT0_ISR><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>142</LINE></EX_INT0_ISR>
+  <USART_init><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>90</LINE></USART_init>
+  <USART_Transmit><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>101</LINE></USART_Transmit>
+  <ADC_init><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>65</LINE></ADC_init>
+  <SPI_init><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>150</LINE></SPI_init>
+  <rutina><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>48</LINE></rutina>
+  <delay_1s><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>119</LINE></delay_1s>
+  <Read_ADC><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>74</LINE></Read_ADC>
+  <SPI_Transmit><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>159</LINE></SPI_Transmit>
+  <Keep_polling><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>78</LINE></Keep_polling>
+  <USART_Receive><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>108</LINE></USART_Receive>
+  <delay2><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>121</LINE></delay2>
+  <delay1><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>123</LINE></delay1>
+  <delay0><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>125</LINE></delay0>
+  <SPI_keep_polling><FILE>C:\Documents and Settings\jp\Escritorio\config_modulos\config_modulos\config_modulos\config_modulos.asm</FILE><LINE>162</LINE></SPI_keep_polling>
+ </LABELS>
+</ASSEMBLER_INFO>
